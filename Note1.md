@@ -16,7 +16,7 @@ Topics
 4. package-lock.json - list dependencies our app needs
 5. node-modules - contains dependencies our app needs
 
-> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > **index.js**
+**index.js**
 
 1. import the React and ReactDOM libraries
    `import React from 'react';`
